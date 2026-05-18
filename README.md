@@ -1,11 +1,11 @@
 Olá 😁
 
-Desenvolvedora Front-end focada em criar interfaces modernas,
-bem estruturadas e funcionais, sempre buscando unir design,
-responsividade e uma boa experiência para o usuário.
+Sou desenvolvedora Full Stack e gosto de criar interfaces
+funcionais e bem organizadas, sempre unindo design,
+responsividade e uma boa experiência para quem vai usar.
 
-Atualmente estudando e desenvolvendo projetos para evoluir cada vez mais
-na criação de sites e aplicações web.
+Atualmente sigo estudando e desenvolvendo projetos para evoluir cada vez mais
+na criação de sites, sistemas e aplicações web completas. 🚀
 
 ---
 
