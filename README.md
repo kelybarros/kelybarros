@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 🌌 Kely Barros
+# Kely Barros
 
 ### Full Stack Developer (Junior) | Freelance | React • Node.js • APIs
 
@@ -42,7 +42,7 @@ Even as a junior developer, I already build **complete end-to-end systems**, app
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,7 +66,7 @@ Even as a junior developer, I already build **complete end-to-end systems**, app
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Full Stack Applications
 End-to-end systems built with **React, Node.js, Prisma and SQL/NoSQL databases**.
@@ -82,7 +82,7 @@ Docker-based environments for consistent development and deployment.
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Advanced **React patterns**
 - Backend architecture with Node.js
@@ -94,7 +94,7 @@ Docker-based environments for consistent development and deployment.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Grow as a **Full Stack Developer (Junior → Mid-level)**
 - Work on international freelance and remote projects
@@ -104,7 +104,7 @@ Docker-based environments for consistent development and deployment.
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
