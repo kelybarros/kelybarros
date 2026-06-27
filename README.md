@@ -1,46 +1,123 @@
-Olá 😁
+<!--
+  KELY BARROS - GITHUB PROFILE
+  Full Stack Developer | Freelance | Modern Web Systems
+-->
 
-Sou desenvolvedora Full Stack e gosto de criar interfaces
-funcionais e bem organizadas, sempre unindo design,
-responsividade e uma boa experiência para quem vai usar.
+<div align="center">
 
-Atualmente sigo estudando e desenvolvendo projetos para evoluir cada vez mais
-na criação de sites, sistemas e aplicações web completas. 🚀
+# 🌌 Kely Barros
+
+### Full Stack Developer (Junior) | Freelance | React • Node.js • APIs
+
+> *Building scalable digital products with clean architecture and modern technologies.*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+(Junior);Freelance+Web+Developer;React+%2F+Node.js+%2F+APIs;PostgreSQL+%2F+MongoDB+%2F+Prisma;Building+real-world+projects" />
 
 ---
 
-## Conecte-se comigo:
-
-<div>
-<a href="https://www.linkedin.com/in/kely-barros-69337417b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/_kelybarross/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 </div>
 
-<br>
+## About Me
 
-## Tecnologias e Ferramentas:
+I’m a **Full Stack Developer (Junior) from Brazil**, working as a **freelance developer**, focused on building modern, scalable and production-ready web applications.
 
-<div>
-<div>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
+I develop across the entire stack — from **frontend interfaces to backend systems, APIs and databases** — always prioritizing clean architecture, performance and usability.
 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+Even as a junior developer, I already build **complete end-to-end systems**, applying real-world development practices.
 
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+---
 
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+### What I do
 
-  <img src="https://img.shields.io/badge/Styled_Components-000000?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+- Front-end development with **React**
+- Backend development with **Node.js**
+- API development and integration (**REST APIs**)
+- Databases: **PostgreSQL & MongoDB**
+- ORM: **Prisma**
+- Docker for containerized environments
+- API testing with **Insomnia**
+- Freelance projects (real clients & personal systems)
+
+---
+
+## 🧠 Tech Stack
+
+### Front-End
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20Design-111827?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### Dev Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Insomnia](https://img.shields.io/badge/Insomnia-111827?style=for-the-badge&logo=insomnia&logoColor=4000BF)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+---
+
+## 🚀 Featured Projects
+
+### Full Stack Applications
+End-to-end systems built with **React, Node.js, Prisma and SQL/NoSQL databases**.
+
+### REST APIs
+Scalable API architectures with authentication, validation and database integration.
+
+### Freelance Landing Pages
+High-conversion landing pages focused on UX, performance and responsiveness.
+
+### Containerized Projects
+Docker-based environments for consistent development and deployment.
+
+---
+
+## 📈 Current Focus
+
+- Advanced **React patterns**
+- Backend architecture with Node.js
+- Database design (PostgreSQL & MongoDB)
+- Prisma ORM workflows
+- Authentication & security systems
+- Docker & deployment practices
+- Freelance client projects
+
+---
+
+## 🎯 Goals
+
+- Grow as a **Full Stack Developer (Junior → Mid-level)**
+- Work on international freelance and remote projects
+- Build scalable SaaS and web platforms
+- Master system design fundamentals
+- Deliver production-ready applications
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/kely-barros/) • [Portfolio](https://kelybarros.com) • [Email](mailto:contato@kelybarros.com)
+
 </div>
 
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+---
 
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<div align="center">
 
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+### ✨ "Clean code, strong architecture, real-world impact."
+
+💜 Thanks for visiting my profile!
+
 </div>
