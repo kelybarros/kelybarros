@@ -116,8 +116,7 @@ Docker-based environments for consistent development and deployment.
 
 <div align="center">
 
-### ✨ "Clean code, strong architecture, real-world impact."
-
-💜 Thanks for visiting my profile!
+### "Clean code, strong architecture, real-world impact."
+ Thanks for visiting my profile!
 
 </div>
