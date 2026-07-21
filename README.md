@@ -46,7 +46,6 @@ Mesmo no início da minha carreira, busco aplicar boas práticas de desenvolvime
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Back-end
